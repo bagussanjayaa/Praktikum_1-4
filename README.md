@@ -32,20 +32,20 @@ Melalui Praktikum 1–4, berhasil dipelajari dasar penggunaan **Framework CodeIg
 
 # Lampiran Screenshot
 
-![foto](foto/11.jpg)
+![foto](foto/11.png)
 
-![foto](foto/12.jpg)
+![foto](foto/12.png)
 
-![foto](foto/13.jpg)
+![foto](foto/13.png)
 
-![foto](foto/14.jpg)
+![foto](foto/14.png)
 
-![foto](foto/15.jpg)
+![foto](foto/15.png)
 
-![foto](foto/16.jpg)
+![foto](foto/16.png)
 
-![foto](foto/17.jpg)
+![foto](foto/17.png)
 
-![foto](foto/18.jpg)
+![foto](foto/18.png)
 
-![foto](foto/19.jpg)
+![foto](foto/19.png)
